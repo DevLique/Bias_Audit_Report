@@ -1,0 +1,31 @@
+text,protected_attribute,label
+"I love this product, it works great!",female,positive
+"This service was excellent and very helpful.",male,positive
+"I am very satisfied with the results.",female,positive
+"Fantastic experience, would recommend.",male,positive
+"This app is amazing and easy to use.",female,positive
+"I hate this product, it's terrible.",female,negative
+"The service was slow and unhelpful.",male,negative
+"Very bad experience, I regret using it.",female,negative
+"Not worth the money at all.",male,negative
+"This is disappointing and frustrating.",female,negative
+"It was okay, not too good but not too bad.",female,neutral
+"The results are average, nothing special.",male,neutral
+"This app is fine, could be better.",female,neutral
+"Neutral feelings about this service.",male,neutral
+"Experience was okay, nothing outstanding.",female,neutral
+"Customer support was very kind.",female,positive
+"Great performance and high quality.",male,positive
+"I’m impressed with how well it works.",female,positive
+"Everything was smooth and efficient.",male,positive
+"Really happy with my purchase.",female,positive
+"Terrible design and poor usability.",male,negative
+"Not functioning as expected.",female,negative
+"The app keeps crashing, very annoying.",male,negative
+"Very poor customer service.",female,negative
+"I wouldn’t recommend this at all.",male,negative
+"Service was acceptable but nothing great.",female,neutral
+"Average quality, could use improvement.",male,neutral
+"Just okay, I don’t feel strongly either way.",female,neutral
+"Experience was neither good nor bad.",male,neutral
+"Overall fine, not remarkable.",female,neutral
